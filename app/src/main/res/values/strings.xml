@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Notificaciones Push</string>
+
+    <!-- Strings related to login -->
+    <string name="txtEmail">Email</string>
+    <string name="txtName">Nombre</string>
+    <string name="action_sign_in">Registrarse</string>
+    <string name="title_activity_main">Actividad Principal</string>
+
+    <!-- GCM -->
+    <string name="error_config">Ajustar %1$s constante y recompila la app.</string>
+    <string name="already_registered">Dispositivo ya está registrado en el servidor.</string>
+    <string name="gcm_registered">De GCM: dispositivo registrado con éxito!</string>
+    <string name="gcm_unregistered">De GCM: dispositivo no registrado con éxito!</string>
+    <string name="gcm_message">De GCM: tienes un mensaje!</string>
+    <string name="gcm_error">De GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">De GCM: error recuperable (%1$s).</string>
+    <string name="gcm_deleted">De GCM: servidor eliminado %1$d mensajes pendientes!</string>
+    <string name="server_registering">Tratando (intento %1$d/%2$d) de registrar el dispositivo en el servidor.</string>
+    <string name="server_registered">De Servidor: dispositivo agregado con éxito!</string>
+    <string name="server_unregistered">De Servidor: dispositivio eliminado con éxito!</string>
+    <string name="server_register_error">No se pudo registrar el dispositivo en el servidor después de %1$d intentos.</string>
+    <string name="server_unregister_error">No se puede anular el registro del dispositivo en el servidor (%1$s).</string>
+    <string name="title_activity_notification">Nueva Notificación</string>
+    <string name="notification_title">Notificación</string>
+    <string name="notification_subtitle">Recibido a las %s hrs. %s</string>
+</resources>
